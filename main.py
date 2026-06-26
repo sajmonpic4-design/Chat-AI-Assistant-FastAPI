@@ -10,6 +10,7 @@ ANSI_ESCAPE = re.compile(r'\x1B\[[0-?]*[ -/]*[@-~]')
 
 BASE_DIR = Path(__file__).resolve().parent
 app = FastAPI()
+app.mount("/static", StaticFiles(directory=BASE_DIR), name="static")
 
 class Msg(BaseModel):
     content: str

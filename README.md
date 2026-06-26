@@ -7,14 +7,14 @@ Lokalny czat AI wykorzystujący model **Ollama** (`llama3.1:8b`) z minimalistycz
 ## 📸 Zrzuty ekranu
 
 ### 🖥️ Interfejs główny
-<img width="1864" height="949" alt="image" src="https://github.com/user-attachments/assets/ad72f694-2fea-4eaf-901a-abb6b4419470" />
+<img width="1841" height="923" alt="image" src="https://github.com/user-attachments/assets/bed46623-d0b2-44df-acae-2357a2165417" />
 
 ### 💬 Przykładowa rozmowa
-<img width="1863" height="945" alt="image" src="https://github.com/user-attachments/assets/63f1a6f8-b990-46fc-ac78-e3ce528852d7" />
-
+<img width="1099" height="832" alt="image" src="https://github.com/user-attachments/assets/f12b827d-1742-4b03-846c-33ab069e431c" />
 
 ### 📱 Widok mobilny
-<img width="581" height="922" alt="image" src="https://github.com/user-attachments/assets/d9e3eed3-e72a-408f-90f1-cfc5baa69b15" />
+<img width="585" height="927" alt="image" src="https://github.com/user-attachments/assets/e1ffa983-51f9-4855-b7cc-b012f4a414ec" />
+
 
 
 ---

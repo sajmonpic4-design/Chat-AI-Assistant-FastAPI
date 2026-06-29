@@ -1,6 +1,7 @@
 import re
 import subprocess
 from fastapi import FastAPI
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
 from pathlib import Path
